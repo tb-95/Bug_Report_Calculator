@@ -8,16 +8,6 @@ This repository contains a comprehensive QA audit of a **broken calculator appli
 - Using screen recordings and screenshots as attachments
 - Testing across multiple input methods (on‑screen keypad + physical keyboard)
 
-## Repository Structure
-Bug_Report_Calculator/
-├── Calculator_App/ # The test application (MyCalculatorv1.exe and dependencies)
-├── Report/
-│ ├── Bug_report_Bednar.pdf # Full bug report
-│ └── screen_recordings/ # Video evidence for each bug
-└── README.md
-
-text
-
 ## Bug Report Summary
 A complete **17‑page PDF** documenting **13 unique bugs**, classified by severity and priority.
 
